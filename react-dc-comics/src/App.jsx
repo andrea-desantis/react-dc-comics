@@ -5,9 +5,9 @@ function App() {
 
   return (
     <>
-    <header></header>
-    <main></main>
-    <footer></footer>
+    <AppHeader />
+    <AppMain />
+    <AppFooter />
     </>
   )
 }
