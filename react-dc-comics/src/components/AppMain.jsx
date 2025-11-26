@@ -1,3 +1,5 @@
+import './AppMain.css';
+
 function AppMain() {
     return(
         <main>

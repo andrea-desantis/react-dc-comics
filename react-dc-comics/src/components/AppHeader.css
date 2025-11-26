@@ -20,3 +20,8 @@ header{
 .gap-25{
     gap: 25px;
 }
+
+/* color */
+.gray{
+    color: rgb(85, 85, 85);
+}
