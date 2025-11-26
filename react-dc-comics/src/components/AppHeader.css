@@ -1,0 +1,22 @@
+
+.logo{
+    height: 80%;
+}
+header{
+    height: 70px;
+}
+/* flex */
+.flex{
+    display: flex;
+}
+.center{
+    justify-content: center;
+    align-items: center;
+}
+.between{
+    justify-content: space-between;
+}
+
+.gap-25{
+    gap: 25px;
+}
