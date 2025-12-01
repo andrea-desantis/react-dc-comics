@@ -1,7 +1,4 @@
-footer img{
-    max-height: 50px;
-    max-width: 50px;
-}
+
 
 
 /* utilities */
@@ -19,6 +16,4 @@ footer img{
 /* flex */
 
 
-.gap-25{
-    gap: 25px;
-}
+

@@ -9,34 +9,34 @@ import dcPower  from '../assets/img/buy-dc-power-visa.svg';
 function FasciaAzzurra() {
     return(
 
-        <div className='bg-blue white flex bluSection'>
-                    <ul className='flex marginBluSection'>
-                        <li className=''>
-                            <a href="" className='flex center'>
+        <div className='bg-blue white flex bluSection jc-center'>
+                    <ul className='flex marginBluSection between'>
+                        <li className='flex f-grow-1'>
+                            <a href="" className='flex center gap-10'>
                                 <img src={digCom} alt="" />
                                 DIGITAL COMICS
                             </a>
                         </li>
-                        <li>
-                            <a href="" className='flex center'>
+                        <li className='flex f-grow-1'>
+                            <a href="" className='flex center gap-10'>
                                 <img src={dcMerch} alt="" />
                                 DC MERCHANDISE
                             </a>
                         </li>
-                        <li>
-                            <a href="" className='flex center'>
+                        <li className='flex f-grow-1'>
+                            <a href="" className='flex center gap-10'>
                                 <img src={sub} alt="" />
                                 SUBSCRIPTION
                             </a>
                         </li>
-                        <li>
-                            <a href="" className='flex center'>
+                        <li className='flex f-grow-1'>
+                            <a href="" className='flex center gap-10'>
                                 <img src={comShop} alt="" />
                                 COMIC SHOP LOCATOR
                             </a>
                         </li>
-                        <li>
-                            <a href="" className='flex center'>
+                        <li  className='flex f-grow-1'>
+                            <a href="" className='flex center gap-10'>
                                 <img src={dcPower} alt="" />
                                 DC POWER VISA
                             </a>

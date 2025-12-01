@@ -3,13 +3,28 @@ li{
 }
 
 .bluSection{
-    padding: 40px;
+    
+    font-size: 0.7rem;
 }
 
 .marginBluSection{
     margin: 0 15%;
+    padding: 40px 30px;
+    width: 100%;
 }
 
 .bg-blue{
     background-color: rgb(38, 107, 255);
+}
+
+.bluSection img{
+    max-height: 40px;
+    max-width: 40px;
+}
+
+.f-grow-1{
+    flex-grow: 1;
+}
+.jc-center{
+    justify-content: center;
 }
