@@ -25,6 +25,6 @@ header{
 
 /* color */
 
-header a {
+.gray a{
     color: rgb(85, 85, 85);
 }

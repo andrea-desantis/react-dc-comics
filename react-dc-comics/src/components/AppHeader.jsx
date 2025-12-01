@@ -10,7 +10,7 @@ function AppHeader() {
                     <img src={fotoLogo} alt="logo" className='logo' />
                 </div>
                 <div className='flex center'>
-                    <ul className='flex gap-25 between' >
+                    <ul className='flex gap-25 between gray' >
                         <li><a href="">CHARACTERS</a></li>
                         <li><a href="">COMICS</a></li>
                         <li><a href="">MOVIES</a></li>

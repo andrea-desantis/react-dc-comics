@@ -10,8 +10,11 @@ footer img{
 
 /* color */
 
-footer a {
+.white a{
     color: white;
+}
+.gray a{
+    color: rgb(85, 85, 85);
 }
 /* flex */
 
