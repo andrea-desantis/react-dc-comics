@@ -1,5 +1,5 @@
 import './AppHeader.css';
-import styles from './AppHeader.css';
+// import styles from './AppHeader.css';
 import fotoLogo from "../assets/img/dc-logo.png";
 
 function AppHeader() {
