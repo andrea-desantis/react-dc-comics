@@ -5,11 +5,12 @@
 
 .cards{
     display: flex;
-    flex-basis: calc((100% / 6) - 20px);
+    flex-basis: calc((100% - (20px * 5)) / 6);
     flex-direction: column;
     gap: 10px;
-
+    /* flex-grow: 1; */
     color: white;
+    
 }
 
 .img-box img{
