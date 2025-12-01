@@ -1,0 +1,19 @@
+/* backgrounds */
+
+.bg-dc{
+    background-image: url('../assets/img/footer-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-logo{
+    background-image: url('../assets/img/dc-logo-bg.png');
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+/* colors */
+.white{
+    color: white;
+}

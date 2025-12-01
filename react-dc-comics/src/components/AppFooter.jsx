@@ -3,7 +3,7 @@
 import './AppFooter.css';
 
 import FasciaAzzurra from './FasciaAzzurra.jsx'
-
+import LinkDc from './LinkDc.jsx';
 function AppFooter() {
     return (
         <footer>
@@ -16,19 +16,7 @@ function AppFooter() {
 
 
                 {/* link */}
-                <div>
-                    <div>
-                        <div>
-                            <div></div>
-                            <div></div>
-                        </div>
-                        <div></div>
-                        <div></div>
-                    </div>
-                    <div>
-                        <img src="" alt="" />
-                    </div>
-                </div>
+                <LinkDc />
                 {/* fine link */}
 
 

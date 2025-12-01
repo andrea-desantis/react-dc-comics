@@ -4,7 +4,7 @@ import fotoLogo from "../assets/img/dc-logo.png";
 
 function AppHeader() {
     return (
-        <header className='flex between'>
+        <header className='flex between marginX'>
             
                 <div className="flex center">
                     <img src={fotoLogo} alt="logo" className='logo' />
