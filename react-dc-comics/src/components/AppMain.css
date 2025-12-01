@@ -1,6 +1,11 @@
 
+.wrap{
+    flex-wrap: wrap;
+}
 
-
+.cards{
+    
+}
 
 /* color */
 .bg-main{
