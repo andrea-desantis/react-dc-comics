@@ -11,7 +11,7 @@ function AppMain() {
             </div>
 
             <div className='marginX'>
-                <div className=''>
+                <div className='p-comics'>
                     <ul className='flex wrap gap-20'>
                         {comics.map((comic, i) => (
                             <li key={i} className='cards'>
