@@ -4,6 +4,8 @@
 }
 header{
     height: 70px;
+    margin: 0  15%;
+    font-size: calc(1rem / 1.5);
 }
 /* flex */
 .flex{
@@ -22,6 +24,7 @@ header{
 }
 
 /* color */
-.gray{
+
+header a {
     color: rgb(85, 85, 85);
 }

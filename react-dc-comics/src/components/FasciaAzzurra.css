@@ -1,0 +1,15 @@
+li{
+  list-style: none;
+}
+
+.bluSection{
+    padding: 40px;
+}
+
+.marginBluSection{
+    margin: 0 15%;
+}
+
+.bg-blue{
+    background-color: rgb(38, 107, 255);
+}

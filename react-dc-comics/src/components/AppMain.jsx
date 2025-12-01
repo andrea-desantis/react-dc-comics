@@ -2,9 +2,9 @@ import './AppMain.css';
 
 function AppMain() {
     return(
-        <main>
+        <main className='bg-main'>
             
-            
+            <div>I CONTENUTI VANNO QUI</div>
 
         </main>
     );

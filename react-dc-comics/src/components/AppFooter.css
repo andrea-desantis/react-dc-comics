@@ -1,27 +1,20 @@
-li{
-  list-style: none;
+footer img{
+    max-height: 50px;
+    max-width: 50px;
 }
+
 
 /* utilities */
-.bg-blue{
-    background-color: rgb(38, 107, 255);
-}
 
-.white{
+
+
+/* color */
+
+footer a {
     color: white;
 }
-
 /* flex */
-.flex{
-    display: flex;
-}
-.center{
-    justify-content: center;
-    align-items: center;
-}
-.between{
-    justify-content: space-between;
-}
+
 
 .gap-25{
     gap: 25px;
