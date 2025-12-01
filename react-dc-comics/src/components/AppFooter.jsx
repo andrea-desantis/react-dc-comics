@@ -4,6 +4,7 @@ import './AppFooter.css';
 
 import FasciaAzzurra from './FasciaAzzurra.jsx'
 import LinkDc from './LinkDc.jsx';
+import SignUp from './SignUp.jsx';
 function AppFooter() {
     return (
         <footer>
@@ -22,19 +23,7 @@ function AppFooter() {
 
 
                 {/* sign-up & social */}
-                <div>
-                    <a href=""></a>
-                </div>
-                <div>
-                    <div></div>
-                    <ul>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                    </ul>
-                </div>
+                <SignUp />
                 {/* fine sign-up & social */}
             </div>
 

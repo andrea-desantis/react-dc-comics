@@ -1,5 +1,4 @@
-import footerBg from '../assets/img/footer-bg.jpg';
-import logoBg from '../assets/img/dc-logo-bg.png';
+
 
 import './LinkDc.css';
 
